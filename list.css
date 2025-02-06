@@ -1,0 +1,54 @@
+header h1{
+    color:rgb(11, 160, 160);
+}
+
+main .pan {
+    display:flex;
+}
+
+h2{
+   text-align: left;
+}
+
+h2 span {
+    background-color: aqua;
+    border-style: solid;
+    padding: 10px 225px 10px 10px;
+}
+
+main .canned{
+    background-color: lightgray;
+    padding: 16px;
+    margin: 10px 20px 30px 10px
+    
+    
+}
+
+main .dry {
+    background-color: lightgray;
+    padding: 16px;
+    margin: 10px 20px 30px 10px 
+}
+
+
+main .Free {
+    display:flex
+}
+
+
+main .veg{
+    background-color: lightgray;
+    padding: 20px;
+    margin: 10px 20px 30px 10px
+    
+}
+
+main .snack {
+    background-color: lightgray;
+    padding: 20px;
+    margin: 10px 20px 30px 10px 
+}
+
+body {
+    background-color: bisque;
+}
